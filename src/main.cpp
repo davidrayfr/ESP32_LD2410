@@ -1,4 +1,5 @@
 #include <Arduino.h>
+
 /*
   This program prints the current setup parameters
   of the HLK-LD2410 presence sensor.
